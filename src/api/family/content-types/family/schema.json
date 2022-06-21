@@ -4,7 +4,8 @@
   "info": {
     "singularName": "family",
     "pluralName": "families",
-    "displayName": "family"
+    "displayName": "family",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -31,6 +32,9 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "admin::user"
+    },
+    "isParent": {
+      "type": "boolean"
     }
   }
 }
