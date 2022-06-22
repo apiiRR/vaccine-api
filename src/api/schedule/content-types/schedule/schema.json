@@ -17,6 +17,9 @@
     },
     "end": {
       "type": "datetime"
+    },
+    "hospital_id": {
+      "type": "integer"
     }
   }
 }
