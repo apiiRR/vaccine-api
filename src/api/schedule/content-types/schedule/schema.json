@@ -17,9 +17,6 @@
     },
     "end": {
       "type": "datetime"
-    },
-    "vaccine_id": {
-      "type": "integer"
     }
   }
 }

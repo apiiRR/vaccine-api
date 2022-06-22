@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vaccine_availabilities",
+  "info": {
+    "singularName": "vaccine-availability",
+    "pluralName": "vaccine-availabilities",
+    "displayName": "vaccine_availability",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "schedule_id": {
+      "type": "integer"
+    },
+    "vaccine_id": {
+      "type": "integer"
+    }
+  }
+}
