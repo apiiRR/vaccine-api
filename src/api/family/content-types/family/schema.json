@@ -28,15 +28,13 @@
         "Perempuan"
       ]
     },
-    "users_permissions_user": {
-      "type": "relation",
-      "relation": "oneToOne",
-      "target": "plugin::users-permissions.user"
-    },
     "isParent": {
       "type": "boolean"
     },
     "usia": {
+      "type": "integer"
+    },
+    "user_id": {
       "type": "integer"
     }
   }
