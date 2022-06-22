@@ -35,6 +35,9 @@
     },
     "isParent": {
       "type": "boolean"
+    },
+    "usia": {
+      "type": "integer"
     }
   }
 }
