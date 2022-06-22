@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "vaccines",
+  "info": {
+    "singularName": "vaccine",
+    "pluralName": "vaccines",
+    "displayName": "vaccine"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "stock": {
+      "type": "integer"
+    }
+  }
+}
