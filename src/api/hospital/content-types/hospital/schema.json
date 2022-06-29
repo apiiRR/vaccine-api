@@ -4,7 +4,8 @@
   "info": {
     "singularName": "hospital",
     "pluralName": "hospitals",
-    "displayName": "hospital"
+    "displayName": "hospital",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -19,6 +20,9 @@
     },
     "city": {
       "type": "string"
+    },
+    "user_id": {
+      "type": "integer"
     }
   }
 }
